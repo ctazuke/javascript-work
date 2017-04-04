@@ -12,7 +12,7 @@ var topMargin = [0, 0, 0, 0, 0];
 
 
 // Variable used to add to the left margin.
-var moveAmount = [5, 10, 15, 20, 25]
+var moveAmount = [5, 10, 15, 20, 25];
 
 // Function that adds moveAmount to leftMargin then appends leftMargin
 // to the first box's margin left. Basically moving the box to the right.
