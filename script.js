@@ -53,5 +53,5 @@ function boxClicked4() {
 boxes[0].addEventListener("click", boxClicked0);
 boxes[1].addEventListener("click", boxClicked1);
 boxes[2].addEventListener("click", boxClicked2);
-boxes[3].addEventListener("click", boxClicked3);
-boxes[4].addEventListener("dblclick", boxClicked4);
+boxes[3].addEventListener("dblclick", boxClicked3);
+boxes[4].addEventListener("click", boxClicked4);
